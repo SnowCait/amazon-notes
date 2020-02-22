@@ -20,9 +20,9 @@
 |operation|説明|
 |---|---|
 |GetBrowseNodes||
-|GetItems||
+|GetItems|アイテム ID からアイテムを検索|
 |GetVariations||
-|SearchItems|アイテムを検索|
+|SearchItems|クエリからアイテムを検索|
 
 ### Resources
 

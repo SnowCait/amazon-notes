@@ -22,7 +22,7 @@
 |GetBrowseNodes||
 |GetItems||
 |GetVariations||
-|SearchItems||
+|SearchItems|アイテムを検索|
 
 ### Resources
 

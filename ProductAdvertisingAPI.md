@@ -22,7 +22,7 @@
 |GetBrowseNodes|BrowseNodeIds|ブラウズノード情報を取得|
 |GetItems|ItemIds|アイテム ID からアイテム情報を取得|
 |GetVariations|ASIN|ASIN からバリエーション違いのアイテム情報を取得|
-|SearchItems|-|クエリからアイテムを検索|
+|SearchItems|Keywords, Actor, Artist, Author, Brand or Title|クエリからアイテムを検索|
 
 ### Resources
 

@@ -17,12 +17,12 @@
 
 ### Operations
 
-|operation|説明|
-|---|---|
+|operation|Required Parameter|説明|
+|---|---|---|
 |GetBrowseNodes||
-|GetItems|アイテム ID からアイテムを検索|
-|GetVariations||
-|SearchItems|クエリからアイテムを検索|
+|GetItems|ItemIds|アイテム ID からアイテムを検索|
+|GetVariations|ASIN|ASIN からバリエーション違いのアイテムを検索|
+|SearchItems|-|クエリからアイテムを検索|
 
 ### Resources
 

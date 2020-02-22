@@ -11,3 +11,27 @@
 
 ## Library
 - [nager/Nager.AmazonProductAdvertising: .NET Amazon Product Advertising Client](https://github.com/nager/Nager.AmazonProductAdvertising)
+
+## API Reference
+
+### Operations
+
+|operation|説明|
+|---|---|
+|GetBrowseNodes||
+|GetItems||
+|GetVariations||
+|SearchItems||
+
+### Resources
+
+|resource|説明|
+|---|---|
+|BrowseNodeInfo||
+|BrowseNodes||
+|Images||
+|ItemInfo||
+|Offers||
+|ParentASIN||
+|SearchRefinements||
+|VariationSummary||

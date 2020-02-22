@@ -19,9 +19,9 @@
 
 |operation|Required Parameter|説明|
 |---|---|---|
-|GetBrowseNodes||
-|GetItems|ItemIds|アイテム ID からアイテムを検索|
-|GetVariations|ASIN|ASIN からバリエーション違いのアイテムを検索|
+|GetBrowseNodes|BrowseNodeIds|ブラウズノード情報を取得|
+|GetItems|ItemIds|アイテム ID からアイテム情報を取得|
+|GetVariations|ASIN|ASIN からバリエーション違いのアイテム情報を取得|
 |SearchItems|-|クエリからアイテムを検索|
 
 ### Resources

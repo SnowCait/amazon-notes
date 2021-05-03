@@ -13,6 +13,11 @@
 ## Library
 - [nager/Nager.AmazonProductAdvertising: .NET Amazon Product Advertising Client](https://github.com/nager/Nager.AmazonProductAdvertising)
 
+### 代替 API
+
+- ほしいものリスト
+  - [doitlikejustin/amazon-wish-lister: Retrieve Amazon Wishlist and output to JSON, XML, or PHP Array Object](https://github.com/doitlikejustin/amazon-wish-lister)
+
 ## API Reference
 
 ### Operations

@@ -28,3 +28,4 @@ ie=utf8 = UTF-8 page encoding format.
 |parameter|説明|
 |---|---|
 |k|検索キーワード|
+|coliid|プロダクトの ID っぽいが不明|

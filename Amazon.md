@@ -25,7 +25,8 @@ ie=utf8 = UTF-8 page encoding format.
 
 ### Parameters
 
-|parameter|説明|
-|---|---|
-|k|検索キーワード|
-|coliid|プロダクトの ID っぽいが不明|
+|parameter|place|説明|
+|---|---|---|
+|dp|path|ASIN `/dp/[ASIN]/`|
+|k|query|検索キーワード|
+|coliid|query|プロダクトの ID っぽいが不明|

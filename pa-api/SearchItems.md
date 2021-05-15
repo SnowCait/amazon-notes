@@ -1,6 +1,7 @@
 # SearchItems
 
-[SearchItems · Product Advertising API 5.0](https://webservices.amazon.com/paapi5/documentation/search-items.html)
+- [SearchItems · Product Advertising API 5.0](https://webservices.amazon.com/paapi5/documentation/search-items.html)
+- [Product Advertising API 5.0 Scratchpad](https://webservices.amazon.co.jp/paapi5/scratchpad/index.html#{%22PartnerType%22:%22Associates%22,%22Marketplace%22:%22www.amazon.co.jp%22,%22Operation%22:%22SearchItems%22})
 
 ## Request parameters
 
@@ -26,7 +27,3 @@
 |Condition|状態|Any, Collectible, New, ...|
 |Merchant|販売者|All, Amazon|
 |Properties|JSON||
-
-## Scratchpad
-
-[Product Advertising API 5.0 Scratchpad](https://webservices.amazon.co.jp/paapi5/scratchpad/index.html#{%22PartnerType%22:%22Associates%22,%22Marketplace%22:%22www.amazon.co.jp%22,%22Operation%22:%22SearchItems%22})

@@ -6,7 +6,7 @@
 |---|---|---|
 |Keywords|キーワード||
 |Resources|レスポンスに含めるリソース|
-|SearchIndex|カテゴリ|KindleStore, ...|
+|SearchIndex|[カテゴリ](https://webservices.amazon.com/paapi5/documentation/locale-reference/japan.html#search-index)|AmazonVideo, KindleStore, ...|
 |Actor||
 |Artist||
 |Author||

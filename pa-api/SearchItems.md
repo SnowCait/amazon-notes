@@ -17,6 +17,7 @@
 |Brand||
 |BrowseNodeId||
 |CurrencyOfPreference|[通貨コード](https://webservices.amazon.com/paapi5/documentation/locale-reference/japan.html#valid-currencies)|JPY|
+|DeliveryFlags||AmazonGlobal, FreeShipping, FullfilledByAmazon, Prime|
 |MaxPrice|||
 |MinPrice|||
 |MinReviewsRating|||

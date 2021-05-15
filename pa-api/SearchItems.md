@@ -1,5 +1,7 @@
 # SearchItems
 
+[SearchItems · Product Advertising API 5.0](https://webservices.amazon.com/paapi5/documentation/search-items.html)
+
 ## Request parameters
 
 |Name|Description|Value|

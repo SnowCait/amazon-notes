@@ -7,6 +7,7 @@
   - [Japan · Product Advertising API 5.0](https://webservices.amazon.com/paapi5/documentation/locale-reference/japan.html)
 - [Product Advertising API (PA-API) に専用のIAMでアクセスする - Qiita](https://qiita.com/kyo_nanba/items/2fcb8b22ef36c74802e3)
 - [【Rails】Amazon PA API v5.0 で書籍検索 - Qiita](https://qiita.com/koki_73/items/da9f2ed01aadd6394702)
+- [[PA-API5.0]Amazon APIでオリジナルのランキング一覧表示スクリプトを作る - めめんと](https://mementoo.info/archives/4053)
 
 ## Sandbox
 - [Product Advertising API 5.0 Scratchpad](https://webservices.amazon.co.jp/paapi5/scratchpad/index.html)

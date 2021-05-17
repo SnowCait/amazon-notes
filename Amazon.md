@@ -46,4 +46,6 @@ ie=utf8 = UTF-8 page encoding format.
         8521860051: P3_Amz
         8178878051: P2_02
         8172488051: Pl_01
+    2275276051: Custom Stores
+      3251934051: Kindle本 セール&キャンペーン
 ```

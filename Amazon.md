@@ -32,3 +32,15 @@ ie=utf8 = UTF-8 page encoding format.
 |dp|path|ASIN `/dp/[ASIN]/`|
 |k|query|検索キーワード|
 |coliid|query|プロダクトの ID っぽいが不明|
+
+## Node
+
+```
+2250738051: Kindleストア
+  2275265051: Self Service
+    2275277051: Special Features Stores
+      7962654051: マンガ セール＆キャンペーン
+        8521860051: P3_Amz
+        8178878051: P2_02
+        8172488051: Pl_01
+```

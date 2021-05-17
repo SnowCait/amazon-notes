@@ -14,6 +14,7 @@ rh denotes the factors of query.
 k = keyword,
 n = category (Sports & Outdoors in this case)
 p_n_condition-type = new/used
+p_n_date = 発売日
 p_72 = 4 or more stars
 p_85 = prime eligible
 page = pagination offset(page nos).

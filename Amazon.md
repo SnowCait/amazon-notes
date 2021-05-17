@@ -39,7 +39,7 @@ ie=utf8 = UTF-8 page encoding format.
 2250738051: Kindleストア
   2250739051: カテゴリー別
     2275256051: Kindle本
-      2293143051: マンガ
+      2293143051: Kindle マンガ
   2275266051: Featured Categories
   4897508051: Kindle Content Bookstore
   2275265051: Self Service

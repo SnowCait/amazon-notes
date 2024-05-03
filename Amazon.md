@@ -11,6 +11,7 @@
 - [What's the meaning of Amazon's URL? - Stack Overflow](https://stackoverflow.com/questions/20610070/whats-the-meaning-of-amazons-url/40978204)
 - [アマゾンのURLのパラメータや特殊なブラウズノードのメモ（主にKindle本検索用途）](https://chalow.net/2020-05-06-1.html)
 - [AmazonのURLを知ろう！｜Internets-21st](https://note.com/internets21st/n/ne3dda3c40065)
+- [Amazon KindleストアのURLの解析 - Pandora Pocket](https://blog.hitsujin.jp/entry/2019/11/24/122146)
 ```
 rh denotes the factors of query.
 k = keyword,
@@ -32,7 +33,20 @@ ie=utf8 = UTF-8 page encoding format.
 |---|---|---|
 |dp|path|ASIN `/dp/[ASIN]/`|
 |k|query|検索キーワード|
+|i|query|カテゴリ|
+|rh|query|カテゴリ, カンマ区切り|
 |coliid|query|プロダクトの ID っぽいが不明|
+
+#### i, rh
+
+| Category | i | rh |
+| - | - | - |
+| Kindle | digital-text | n:2250738051 |
+| Kindle Unlimited | | p_n_special_merchandising_browse-bin:5304495051 |
+| Prime Reading | | p_n_special_merchandising_browse-bin:5304495051 |
+| 和書 | | n:2275256051 |
+| 期間 | | p_n_date:yyyymmdd-yyyymmdd |
+| 価格 | | p36:[min]-[max] |
 
 ## Node
 

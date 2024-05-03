@@ -10,6 +10,7 @@
 - [Amazon、qid、URL、意味｜独り言｜素人翻訳](http://goutou.mamagoto.com/%E7%8B%AC%E3%82%8A%E8%A8%80/amazon%E3%80%81qid%E3%80%81url%E3%80%81%E6%84%8F%E5%91%B3)
 - [What's the meaning of Amazon's URL? - Stack Overflow](https://stackoverflow.com/questions/20610070/whats-the-meaning-of-amazons-url/40978204)
 - [アマゾンのURLのパラメータや特殊なブラウズノードのメモ（主にKindle本検索用途）](https://chalow.net/2020-05-06-1.html)
+- [AmazonのURLを知ろう！｜Internets-21st](https://note.com/internets21st/n/ne3dda3c40065)
 ```
 rh denotes the factors of query.
 k = keyword,
